@@ -1,0 +1,27 @@
+.buttonOn{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+.buttonWrite{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+.buttonRead{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+.buttonOff{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
